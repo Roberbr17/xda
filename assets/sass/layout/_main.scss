@@ -1,0 +1,29 @@
+main {
+	font-family:$raleway;
+	font-size:$medium;
+	color:$quick-silver;
+	background:$white;
+}
+
+main img {
+	position:center;
+	height:auto;
+    width: 100%;
+}
+
+.main__img {
+	background-image: url("../img/original.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	position:center;
+}
+
+.main__new {
+	background:$black;
+	margin-top:4%;
+	height:auto;
+}
+
+.main__btn {
+	background:$white;
+}

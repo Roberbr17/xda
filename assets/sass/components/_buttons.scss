@@ -1,0 +1,15 @@
+.button__alt {
+	background-color:$white;
+	border:1px solid $black;
+	display:inline-block;
+	color:$black;
+	font-family:$raleway;
+	font-size:$medium;
+	padding:15px 42px;
+	text-decoration:none;
+	margin-left: 5%;
+
+ 	&:hover {
+ 		border:1px solid $ligth-gray;
+ 	}
+}
